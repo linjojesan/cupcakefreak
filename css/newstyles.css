@@ -1,0 +1,38 @@
+
+p.flashy {
+
+  color: red;
+  font-style: italic;
+  font-size: 25px;
+
+
+
+}
+
+h2.flashy {
+
+  color: red;
+  font-style: italic;
+}
+
+h1.logo {
+
+}
+
+body {
+  font-family: fantasy;
+}
+
+img {
+
+  display: block;
+     margin: auto;
+       border-radius: 50%;
+       box-shadow: 10px 10px 5px #888888;
+
+}
+
+img.best {
+
+
+}
