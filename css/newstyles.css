@@ -4,9 +4,7 @@ p.flashy {
   color: red;
   font-style: italic;
   font-size: 25px;
-
-
-
+  text-shadow: 2px 2px black;
 
 }
 
@@ -18,7 +16,7 @@ h2.flashy {
 
   color: red;
   font-style: italic;
-  text-shadow: 0 0 3px #FF0000;
+
 }
 
 h1 {
@@ -28,29 +26,30 @@ h1 {
 
 }
 
+
+
 body {
-  font-family: fantasy;
+  font-family:fantasy !important;
+  background-image:url("http://wallpapercave.com/wp/IynYE05.png");
+
 }
 
 img.floatcake {
-
-
-
-       border-radius: 50%;
+      border-radius: 50%;
        box-shadow: 10px 10px 5px #888888;
        width: 5%;
        float: left;
-
-
 }
 
 img.best {
 
   box-shadow: 20px 20px 2px #888888;
-  border-radius: 60%;
+  border-radius: 50%;
   padding-top: 100px;
   display: block;
   margin: auto;
+
+
 
 
 }
